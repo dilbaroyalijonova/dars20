@@ -234,15 +234,17 @@ header {
         padding-top: 0;
     }
     .qora {
-        max-width: 100%;
+        max-width: ;
     }
     .yashil {
         display: none;
     }
-    .yashil1,
-    .yashil2,
-    .yashil3 {
+    .yashil1 {
         margin: 5px;
+    }
+    .qora {
+        max-width: 690px;
+        max-height: 570px;
     }
 }
 
@@ -304,4 +306,9 @@ header {
     .collection-text {
         text-align: center;
     }
+}
+
+.qora {
+    max-width: 320px;
+    max-height: 900px;
 }
