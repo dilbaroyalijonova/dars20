@@ -208,40 +208,43 @@ header {
     max-height: 380px;
 }
 
-
-}
 .yashil1 img {
     margin-left: 80px;
 }
+
 .yashil2 h3 {
     margin: 56px 48px 30px 48px;
 }
 
-}
 .yashil2 p {
     margin: 0 0 25px 25px;
     max-width: 155px;
     max-height: 80px;
 }
+
 .work1 img {
     padding-bottom: 5px;
     width: 31px;
     height: 31px;
 }
+
 .works {
     margin-top: 50px;
 }
+
 .works p {
-    color:#83888F;
+    color: #83888f;
     font-weight: 900;
     font-size: 24px;
     line-height: 32px;
 }
+
 .work {
     display: flex;
     justify-content: center;
     padding: 10px;
 }
+
 .work1 span {
     color: #fdd6ba;
     width: 100px;
@@ -250,9 +253,11 @@ header {
     line-height: 72px;
     font-size: 72px;
 }
+
 .work1 {
     margin: 10px;
 }
+
 .work2 h3 {
     font-weight: 900;
     line-height: 36px;
@@ -260,6 +265,7 @@ header {
     width: 255px;
     height: 72px;
 }
+
 .work p {
     color: #333d4b;
     width: 285px;
@@ -267,6 +273,7 @@ header {
     line-height: 26px;
     font-size: 16px;
 }
+
 @media screen and(max-width:992px) {
     .collection-box {
         display: flex;
@@ -285,6 +292,7 @@ header {
         margin: 5px;
     }
 }
+
 @media screen and (max-width: 768px) {
     .hero-content h1 {
         font-size: 48px;
@@ -300,6 +308,7 @@ header {
     }
     .collection-box {}
 }
+
 @media screen and (max-width: 576px) {
     header {
         margin-bottom: 120px;
