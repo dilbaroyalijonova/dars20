@@ -122,7 +122,7 @@ header {
     opacity: 0.8;
 }
 
-.hero-content button {
+.button {
     background-color: #66d2cf;
     color: #fefcf7;
     border: none;
@@ -174,6 +174,7 @@ header {
 }
 
 .qora {
+    margin-top: 50px;
     max-width: 1280px;
     max-height: 580px;
     background-color: black;
@@ -217,6 +218,20 @@ header {
     text-align: center;
     max-width: 155px;
     max-height: 80px;
+}
+
+.work1 img {
+    width: 31px;
+    height: 31px;
+}
+
+.works {
+    margin: 50px;
+}
+
+.work {
+    display: flex;
+    padding: 10px;
 }
 
 @media screen and(max-width:992px) {
@@ -309,6 +324,18 @@ header {
 }
 
 .qora {
-    max-width: 320px;
+    max-width: 350px;
     max-height: 900px;
+}
+
+.yashil {
+    display: block;
+}
+
+.yashil1 {
+    margin: 5px 0 5px 0;
+}
+
+.work {
+    display: block;
 }
